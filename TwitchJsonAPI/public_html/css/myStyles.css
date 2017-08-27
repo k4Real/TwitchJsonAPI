@@ -71,7 +71,7 @@ footer {
     width:60px;
     position:absolute ;
     top: 20px;
-    left:50px;
+    left:70px;
     
 }
 
@@ -90,7 +90,7 @@ footer {
 
 .previewPic {
     
-    width:160px;
+    width:200px;
    position:absolute;
     right: 300px ;
     top:15px;
@@ -110,6 +110,17 @@ box-shadow:  10px 10px 72px 2px rgba(0,0,0,0.46);
     margin-bottom: 40px;
     
 }
+
+.game {
+    
+    
+      position:absolute ;
+    top: 30px;
+    right: 100px
+    
+    
+}
+
 
 
 .streamerName:hover,
@@ -131,7 +142,40 @@ box-shadow:  10px 10px 72px 2px rgba(0,0,0,0.46);
     
     position:absolute ;
     top: 60px;
-    right: 200px;
+    right: 100px;
     
+    
+}
+
+.status {
+    
+    
+    position:absolute;
+    top: 10px;
+    right: 20px;
+    
+    
+    
+    
+}
+
+.onlineIcon {
+    
+    width: 20px;
+    height:20px;
+    display: inline-block;
+    background-color:#99ff33;
+    border-radius: 50%;
+    
+}
+
+.offlineIcon {
+    
+    width: 20px;
+    height:20px;
+/* change inline block,   necessary to make it targetable*/
+    display: inline-block;
+    background-color:#ff0000 ;
+    border-radius: 50%;
     
 }
