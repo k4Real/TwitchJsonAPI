@@ -19,7 +19,7 @@ var status ;
 var game;
 var icon ;
 var thumbnail ;
-var streamerList = ["reckful", "OgamingSC2", "cretetion", "freecodecamp", "noopkat", "awkwards_travel", "RobotCaleb", "pokket"] ;
+var streamerList = ["reckful", "OgamingSC2", "cretetion", "freecodecamp", "noopkat", "awkwards_travel", "RobotCaleb", "pokket", "gosu"] ;
 var twitchAPI = "https://wind-bow.gomix.me/twitch-api/streams/" ;
 var arrayStreamer= [] ;
 
